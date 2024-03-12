@@ -9,7 +9,7 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
+- :man: Lucas Cañizares
 - :woman: minombre
 - :woman: minombre 
 
@@ -17,9 +17,9 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [ ] FictionCiberpunk  
 - [ ] Reality/tribus urbanas  
-- [ ] Comic
+- [x] Comic
 
 
 
